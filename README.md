@@ -1,1 +1,1 @@
-# real-time-face-detection-using-haar-cascade-model
+# Real Time Face Detection using Haar-cascade Model and OpenCV
